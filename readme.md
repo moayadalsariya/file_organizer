@@ -10,7 +10,7 @@ command line tool help you to organise  your files
 first you must clone the project using git
 
 ```bash
-git clone projet_url
+git clone https://github.com/moyad123/file_organizer.git
 ```
 Then cd to file_organizer
 
