@@ -1,0 +1,11 @@
+{
+    "./images":          [".png",".jpeg",".svg",".gif",".jpg",".jfif"],
+    "./videos":          [".mp4",".webm",".mkv",".avi",".flv",".vmv",".mov"],
+    "./audios":          [".mp3",".wav"],
+    "./powerPoints":     [".ppt",".ppts",".pptx"],
+    "./wordDocs":        [".doc",".docx"],
+    "./PDF":             [".pdf"],
+    "./archives":        [".zip",".rar",".7z"],
+    "./executable_files":[".exe",".dmg",".deb",".msi"],
+    "./excel":           [".xlsx",".xls"]
+}

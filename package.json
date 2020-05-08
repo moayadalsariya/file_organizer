@@ -1,0 +1,16 @@
+{
+  "name": "file_organizer",
+  "version": "1.0.0",
+  "description": "command line tool to help organize your files",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "figlet": "^1.4.0",
+    "inquirer": "^7.1.0"
+  },
+  "author": "moyad123",
+  "license": "MIT"
+}
